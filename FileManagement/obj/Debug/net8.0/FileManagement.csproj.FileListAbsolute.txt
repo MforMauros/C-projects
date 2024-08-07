@@ -1,0 +1,14 @@
+/Users/mixalismavromanolakis/ConsoleApp1/FileManagement/bin/Debug/net8.0/FileManagement
+/Users/mixalismavromanolakis/ConsoleApp1/FileManagement/bin/Debug/net8.0/FileManagement.deps.json
+/Users/mixalismavromanolakis/ConsoleApp1/FileManagement/bin/Debug/net8.0/FileManagement.runtimeconfig.json
+/Users/mixalismavromanolakis/ConsoleApp1/FileManagement/bin/Debug/net8.0/FileManagement.dll
+/Users/mixalismavromanolakis/ConsoleApp1/FileManagement/bin/Debug/net8.0/FileManagement.pdb
+/Users/mixalismavromanolakis/ConsoleApp1/FileManagement/obj/Debug/net8.0/FileManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mixalismavromanolakis/ConsoleApp1/FileManagement/obj/Debug/net8.0/FileManagement.AssemblyInfoInputs.cache
+/Users/mixalismavromanolakis/ConsoleApp1/FileManagement/obj/Debug/net8.0/FileManagement.AssemblyInfo.cs
+/Users/mixalismavromanolakis/ConsoleApp1/FileManagement/obj/Debug/net8.0/FileManagement.csproj.CoreCompileInputs.cache
+/Users/mixalismavromanolakis/ConsoleApp1/FileManagement/obj/Debug/net8.0/FileManagement.dll
+/Users/mixalismavromanolakis/ConsoleApp1/FileManagement/obj/Debug/net8.0/refint/FileManagement.dll
+/Users/mixalismavromanolakis/ConsoleApp1/FileManagement/obj/Debug/net8.0/FileManagement.pdb
+/Users/mixalismavromanolakis/ConsoleApp1/FileManagement/obj/Debug/net8.0/FileManagement.genruntimeconfig.cache
+/Users/mixalismavromanolakis/ConsoleApp1/FileManagement/obj/Debug/net8.0/ref/FileManagement.dll
