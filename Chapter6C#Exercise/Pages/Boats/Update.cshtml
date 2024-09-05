@@ -1,0 +1,56 @@
+﻿@page "/Boats/{id}/Update"
+@model Chapter6C_Exercise.Pages.Boats.UpdateModel
+@{
+}
+
+<form method="POST">
+    <div class="row mb-3">
+        <label for="boatname" class="col-md-1">Boat name</label>
+        <div class="col-md-6">
+            <input type="text" class="form-control" name="boatname" id="boatname"
+                   placeholder="Enter boatname" value="@Model.BoatUpdateDTO!.Boatname" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label for="price" class="col-md-1">Boat Price</label>
+        <div class="col-md-6">
+            <input type="text" class="form-control" name="price" id="price"
+                   placeholder="Enter price" value="@Model.BoatUpdateDTO!.Price" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label for="region" class="col-md-1">Region</label>
+        <div class="col-md-6">
+            <input type="text" class="form-control" name="region" id="region"
+                   placeholder="Enter region" value="@Model.BoatUpdateDTO!.Region" />
+        </div>
+    </div>
+
+    <div>
+        <div class="row mb-3">
+            <div class="offset-md-1 col-md-3 d-grid">
+                <button class="btn btn-primary" type="Submit">Submit</button>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="offset-md-1 col-md-3 d-grid">
+                <a class="btn btn-outline-primary" href="/Boats/getall">Cancel</a>
+            </div>
+        </div>
+    </div>
+
+</form>
+
+<div>
+    @if (Model.ErrorArray!.Count != 0)
+    {
+        @foreach (var error in Model.ErrorArray)
+        {
+            <div>
+                <p>@error.Message</p>
+            </div>
+        }
+    }
+</div>

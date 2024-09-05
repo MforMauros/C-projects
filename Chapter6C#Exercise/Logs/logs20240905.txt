@@ -1,0 +1,519 @@
+[05-09-2024 03:16:29041 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"/Users/mixalismavromanolakis/.aspnet/DataProtection-Keys"' as key repository; keys will not be encrypted at rest.
+[05-09-2024 03:16:29101 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:8000"
+[05-09-2024 03:16:29102 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[05-09-2024 03:16:29102 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[05-09-2024 03:16:29102 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise"
+[05-09-2024 03:16:43090 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:8000""""/""" - null null
+[05-09-2024 03:16:43096 +03:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware ] Failed to determine the https port for redirect.
+[05-09-2024 03:16:43109 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:8000""""/""" - 404 0 null 20.6922ms
+[05-09-2024 03:16:43113 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:8000""""/", Response status code: 404
+[05-09-2024 03:16:44830 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:8000""""/""" - null null
+[05-09-2024 03:16:44832 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:8000""""/""" - 404 0 null 1.5582ms
+[05-09-2024 03:16:44832 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:8000""""/", Response status code: 404
+[05-09-2024 03:16:45635 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:8000""""/""" - null null
+[05-09-2024 03:16:45637 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:8000""""/""" - 404 0 null 1.5823ms
+[05-09-2024 03:16:45637 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:8000""""/", Response status code: 404
+[05-09-2024 03:16:48133 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:8000""""/""" - null null
+[05-09-2024 03:16:48134 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:8000""""/""" - 404 0 null 0.6295ms
+[05-09-2024 03:16:48134 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:8000""""/", Response status code: 404
+[05-09-2024 03:16:49446 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:8000""""/""" - null null
+[05-09-2024 03:16:49446 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:8000""""/""" - 404 0 null 0.5066ms
+[05-09-2024 03:16:49446 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:8000""""/", Response status code: 404
+[05-09-2024 03:20:23442 +03:00 Microsoft.Hosting.Lifetime ] Application is shutting down...
+[05-09-2024 03:20:31108 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"/Users/mixalismavromanolakis/.aspnet/DataProtection-Keys"' as key repository; keys will not be encrypted at rest.
+[05-09-2024 03:20:31165 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:1500"
+[05-09-2024 03:20:31165 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[05-09-2024 03:20:31166 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[05-09-2024 03:20:31166 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise"
+[05-09-2024 03:20:35519 +03:00 Microsoft.Hosting.Lifetime ] Application is shutting down...
+[05-09-2024 03:20:44881 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"/Users/mixalismavromanolakis/.aspnet/DataProtection-Keys"' as key repository; keys will not be encrypted at rest.
+[05-09-2024 03:20:44938 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:1500"
+[05-09-2024 03:20:44939 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[05-09-2024 03:20:44939 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[05-09-2024 03:20:44939 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise"
+[05-09-2024 03:20:53356 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - null null
+[05-09-2024 03:20:53367 +03:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware ] Failed to determine the https port for redirect.
+[05-09-2024 03:20:53385 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - 404 0 null 29.7307ms
+[05-09-2024 03:20:53391 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/", Response status code: 404
+[05-09-2024 03:21:08521 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - null null
+[05-09-2024 03:21:08523 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - 404 0 null 1.9217ms
+[05-09-2024 03:21:08524 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/", Response status code: 404
+[05-09-2024 12:35:44368 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - null null
+[05-09-2024 12:35:44371 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - 404 0 null 2.9408ms
+[05-09-2024 12:35:44371 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/", Response status code: 404
+[05-09-2024 12:36:29833 +03:00 Microsoft.Hosting.Lifetime ] Application is shutting down...
+[05-09-2024 12:36:41832 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"/Users/mixalismavromanolakis/.aspnet/DataProtection-Keys"' as key repository; keys will not be encrypted at rest.
+[05-09-2024 12:36:41886 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:1500"
+[05-09-2024 12:36:41887 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[05-09-2024 12:36:41887 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[05-09-2024 12:36:41887 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise"
+[05-09-2024 12:36:50849 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - null null
+[05-09-2024 12:36:50857 +03:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware ] Failed to determine the https port for redirect.
+[05-09-2024 12:36:50874 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - 404 0 null 25.8102ms
+[05-09-2024 12:36:50889 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/", Response status code: 404
+[05-09-2024 12:45:16910 +03:00 Microsoft.Hosting.Lifetime ] Application is shutting down...
+[05-09-2024 12:45:29274 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"/Users/mixalismavromanolakis/.aspnet/DataProtection-Keys"' as key repository; keys will not be encrypted at rest.
+[05-09-2024 12:45:29331 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:1500"
+[05-09-2024 12:45:29332 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[05-09-2024 12:45:29332 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[05-09-2024 12:45:29332 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise"
+[05-09-2024 12:45:40785 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - null null
+[05-09-2024 12:45:40791 +03:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware ] Failed to determine the https port for redirect.
+[05-09-2024 12:45:40801 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - 404 0 null 18.1335ms
+[05-09-2024 12:45:40804 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/", Response status code: 404
+[05-09-2024 12:46:35283 +03:00 Microsoft.Hosting.Lifetime ] Application is shutting down...
+[05-09-2024 12:47:02905 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"/Users/mixalismavromanolakis/.aspnet/DataProtection-Keys"' as key repository; keys will not be encrypted at rest.
+[05-09-2024 12:47:02969 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:1500"
+[05-09-2024 12:47:02970 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[05-09-2024 12:47:02970 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[05-09-2024 12:47:02970 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise"
+[05-09-2024 12:47:18701 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - null null
+[05-09-2024 12:47:18726 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - 404 0 null 26.2679ms
+[05-09-2024 12:47:18748 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/", Response status code: 404
+[05-09-2024 12:47:21874 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - null null
+[05-09-2024 12:47:21876 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - 404 0 null 1.5349ms
+[05-09-2024 12:47:21876 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/", Response status code: 404
+[05-09-2024 12:47:46389 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - null null
+[05-09-2024 12:47:46391 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - 404 0 null 1.571ms
+[05-09-2024 12:47:46391 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/", Response status code: 404
+[05-09-2024 12:48:39618 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - null null
+[05-09-2024 12:48:39619 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - 404 0 null 0.6316ms
+[05-09-2024 12:48:39619 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/", Response status code: 404
+[05-09-2024 12:52:21804 +03:00 Microsoft.Hosting.Lifetime ] Application is shutting down...
+[05-09-2024 12:52:37422 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"/Users/mixalismavromanolakis/.aspnet/DataProtection-Keys"' as key repository; keys will not be encrypted at rest.
+[05-09-2024 12:52:37478 +03:00 Microsoft.Extensions.Hosting.Internal.Host ] Hosting failed to start
+System.InvalidOperationException: A path base can only be configured using IApplicationBuilder.UsePathBase().
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.ParseAddress(String address, Boolean& https)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(ListenOptions[] listenOptions, AddressBindContext context, Func`2 useHttps, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.BindAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__15_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+[05-09-2024 12:55:19148 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"/Users/mixalismavromanolakis/.aspnet/DataProtection-Keys"' as key repository; keys will not be encrypted at rest.
+[05-09-2024 12:55:19201 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:1500"
+[05-09-2024 12:55:19202 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[05-09-2024 12:55:19202 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[05-09-2024 12:55:19202 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise"
+[05-09-2024 12:55:24949 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - null null
+[05-09-2024 12:55:24956 +03:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware ] Failed to determine the https port for redirect.
+[05-09-2024 12:55:24984 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - 404 0 null 35.0694ms
+[05-09-2024 12:55:24994 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/", Response status code: 404
+[05-09-2024 12:55:37030 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - null null
+[05-09-2024 12:55:37031 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - 404 0 null 1.4223ms
+[05-09-2024 12:55:37032 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/", Response status code: 404
+[05-09-2024 12:56:04820 +03:00 Microsoft.Hosting.Lifetime ] Application is shutting down...
+[05-09-2024 12:56:16551 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"/Users/mixalismavromanolakis/.aspnet/DataProtection-Keys"' as key repository; keys will not be encrypted at rest.
+[05-09-2024 12:56:16606 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:1500"
+[05-09-2024 12:56:16607 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[05-09-2024 12:56:16607 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[05-09-2024 12:56:16607 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise"
+[05-09-2024 12:56:20906 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - null null
+[05-09-2024 12:56:20927 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - 404 0 null 21.1679ms
+[05-09-2024 12:56:20936 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/", Response status code: 404
+[05-09-2024 12:56:24671 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - null null
+[05-09-2024 12:56:24673 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - 404 0 null 1.7703ms
+[05-09-2024 12:56:24673 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/", Response status code: 404
+[05-09-2024 12:57:41951 +03:00 Microsoft.Hosting.Lifetime ] Application is shutting down...
+[05-09-2024 12:57:50688 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"/Users/mixalismavromanolakis/.aspnet/DataProtection-Keys"' as key repository; keys will not be encrypted at rest.
+[05-09-2024 12:57:50746 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:1500"
+[05-09-2024 12:57:50747 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[05-09-2024 12:57:50747 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[05-09-2024 12:57:50747 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise"
+[05-09-2024 12:57:54211 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - null null
+[05-09-2024 12:57:54218 +03:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware ] Failed to determine the https port for redirect.
+[05-09-2024 12:57:54241 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - 404 0 null 30.454ms
+[05-09-2024 12:57:54253 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/", Response status code: 404
+[05-09-2024 12:58:45852 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - null null
+[05-09-2024 12:58:45854 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - 404 0 null 2.0437ms
+[05-09-2024 12:58:45855 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/", Response status code: 404
+[05-09-2024 12:58:46338 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - null null
+[05-09-2024 12:58:46339 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/""" - 404 0 null 1.3668ms
+[05-09-2024 12:58:46340 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/", Response status code: 404
+[05-09-2024 12:59:48842 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - null null
+[05-09-2024 12:59:48849 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Index"'
+[05-09-2024 12:59:48880 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Index\"}". Executing page "/Index"
+[05-09-2024 12:59:48938 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.IndexModel.OnGet" - ModelState is Valid
+[05-09-2024 12:59:49086 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 12:59:49208 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Index" in 325.7973ms
+[05-09-2024 12:59:49208 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Index"'
+[05-09-2024 12:59:49209 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - 200 null "text/html; charset=utf-8" 367.909ms
+[05-09-2024 12:59:49229 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/lib/bootstrap/dist/css/bootstrap.min.css""" - null null
+[05-09-2024 12:59:49232 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/js/boat.js""" - null null
+[05-09-2024 12:59:49232 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/css/site.css""?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0" - null null
+[05-09-2024 12:59:49232 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 12:59:49232 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/lib/jquery/dist/jquery.min.js""" - null null
+[05-09-2024 12:59:49232 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/lib/bootstrap/dist/js/bootstrap.bundle.min.js""" - null null
+[05-09-2024 12:59:49233 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 1.691ms
+[05-09-2024 12:59:49234 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 12:59:49236 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/js/site.js""?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo" - null null
+[05-09-2024 12:59:49245 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/js/site.js"'. Physical path: '"/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise/wwwroot/js/site.js"'
+[05-09-2024 12:59:49245 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/jquery/dist/jquery.min.js"'. Physical path: '"/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise/wwwroot/lib/jquery/dist/jquery.min.js"'
+[05-09-2024 12:59:49245 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.min.js"'. Physical path: '"/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"'
+[05-09-2024 12:59:49245 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/js/boat.js"'. Physical path: '"/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise/wwwroot/js/boat.js"'
+[05-09-2024 12:59:49246 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/css/site.css"'. Physical path: '"/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise/wwwroot/css/site.css"'
+[05-09-2024 12:59:49247 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/js/boat.js""" - 200 167 "text/javascript" 15.3382ms
+[05-09-2024 12:59:49247 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/lib/bootstrap/dist/js/bootstrap.bundle.min.js""" - 200 78468 "text/javascript" 15.1596ms
+[05-09-2024 12:59:49247 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/css/site.css""?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0" - 200 362 "text/css" 15.3113ms
+[05-09-2024 12:59:49247 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/js/site.js""?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo" - 200 231 "text/javascript" 10.8704ms
+[05-09-2024 12:59:49248 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/js/boat.js""" - null null
+[05-09-2024 12:59:49248 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/lib/jquery/dist/jquery.min.js""" - null null
+[05-09-2024 12:59:49248 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/lib/jquery/dist/jquery.min.js""" - 200 89501 "text/javascript" 15.7467ms
+[05-09-2024 12:59:49249 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/js/boat.js"'. Physical path: '"/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise/wwwroot/js/boat.js"'
+[05-09-2024 12:59:49248 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/js/site.js""?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo" - null null
+[05-09-2024 12:59:49248 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.min.css"'. Physical path: '"/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"'
+[05-09-2024 12:59:49249 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/lib/bootstrap/dist/js/bootstrap.bundle.min.js""" - null null
+[05-09-2024 12:59:49249 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/jquery/dist/jquery.min.js"'. Physical path: '"/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise/wwwroot/lib/jquery/dist/jquery.min.js"'
+[05-09-2024 12:59:49249 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/js/site.js"'. Physical path: '"/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise/wwwroot/js/site.js"'
+[05-09-2024 12:59:49250 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/lib/jquery/dist/jquery.min.js""" - 200 89501 "text/javascript" 1.8828ms
+[05-09-2024 12:59:49249 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/lib/bootstrap/dist/css/bootstrap.min.css""" - 200 162720 "text/css" 20.56ms
+[05-09-2024 12:59:49250 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/js/site.js""?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo" - 200 231 "text/javascript" 1.7546ms
+[05-09-2024 12:59:49249 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/js/boat.js""" - 200 167 "text/javascript" 1.2852ms
+[05-09-2024 12:59:49252 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.min.js"'. Physical path: '"/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"'
+[05-09-2024 12:59:49255 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/lib/bootstrap/dist/js/bootstrap.bundle.min.js""" - 200 78468 "text/javascript" 6.0705ms
+[05-09-2024 12:59:50014 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/favicon.ico""" - null null
+[05-09-2024 12:59:50015 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] Sending file. Request path: '"/favicon.ico"'. Physical path: '"/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise/wwwroot/favicon.ico"'
+[05-09-2024 12:59:50015 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/favicon.ico""" - 200 5430 "image/x-icon" 0.8222ms
+[05-09-2024 12:59:57680 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats""" - null null
+[05-09-2024 12:59:57681 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Boats/index"'
+[05-09-2024 12:59:57685 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Boats/index\"}". Executing page "/Boats/index"
+[05-09-2024 12:59:57685 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "MyApp.Namespace.indexModel.OnGet" - ModelState is Valid
+[05-09-2024 12:59:57686 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "".
+[05-09-2024 12:59:57690 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing an implicit handler method - ModelState is Valid
+[05-09-2024 12:59:57690 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 12:59:57697 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Boats/index" in 12.0415ms
+[05-09-2024 12:59:57697 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Boats/index"'
+[05-09-2024 12:59:57698 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats""" - 200 null "text/html; charset=utf-8" 17.6459ms
+[05-09-2024 12:59:57743 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 12:59:57744 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 1.0318ms
+[05-09-2024 12:59:57745 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 13:00:02809 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats""" - null null
+[05-09-2024 13:00:02810 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Boats/index"'
+[05-09-2024 13:00:02810 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Boats/index\"}". Executing page "/Boats/index"
+[05-09-2024 13:00:02810 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "MyApp.Namespace.indexModel.OnGet" - ModelState is Valid
+[05-09-2024 13:00:02811 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "".
+[05-09-2024 13:00:02811 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing an implicit handler method - ModelState is Valid
+[05-09-2024 13:00:02811 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 13:00:02812 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Boats/index" in 2.2029ms
+[05-09-2024 13:00:02813 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Boats/index"'
+[05-09-2024 13:00:02813 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats""" - 200 null "text/html; charset=utf-8" 3.6317ms
+[05-09-2024 13:00:02840 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 13:00:02841 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 1.4472ms
+[05-09-2024 13:00:02842 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 13:00:05715 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats""" - null null
+[05-09-2024 13:00:05717 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Boats/index"'
+[05-09-2024 13:00:05717 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Boats/index\"}". Executing page "/Boats/index"
+[05-09-2024 13:00:05717 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "MyApp.Namespace.indexModel.OnGet" - ModelState is Valid
+[05-09-2024 13:00:05717 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "".
+[05-09-2024 13:00:05717 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing an implicit handler method - ModelState is Valid
+[05-09-2024 13:00:05717 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 13:00:05719 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Boats/index" in 2.2005ms
+[05-09-2024 13:00:05719 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Boats/index"'
+[05-09-2024 13:00:05719 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats""" - 200 null "text/html; charset=utf-8" 4.1785ms
+[05-09-2024 13:00:05749 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 13:00:05750 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 0.5501ms
+[05-09-2024 13:00:05750 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 13:00:08820 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - null null
+[05-09-2024 13:00:08821 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Index"'
+[05-09-2024 13:00:08821 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Index\"}". Executing page "/Index"
+[05-09-2024 13:00:08822 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.IndexModel.OnGet" - ModelState is Valid
+[05-09-2024 13:00:08834 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 13:00:08836 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Index" in 14.8377ms
+[05-09-2024 13:00:08836 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Index"'
+[05-09-2024 13:00:08836 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - 200 null "text/html; charset=utf-8" 16.5291ms
+[05-09-2024 13:00:08868 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 13:00:08868 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 0.7135ms
+[05-09-2024 13:00:08869 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 13:01:01992 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - null null
+[05-09-2024 13:01:01992 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Index"'
+[05-09-2024 13:01:01993 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Index\"}". Executing page "/Index"
+[05-09-2024 13:01:01995 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.IndexModel.OnGet" - ModelState is Valid
+[05-09-2024 13:01:02000 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 13:01:02001 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Index" in 8.5502ms
+[05-09-2024 13:01:02002 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Index"'
+[05-09-2024 13:01:02002 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - 200 null "text/html; charset=utf-8" 10.4866ms
+[05-09-2024 13:01:02034 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 13:01:02036 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 2.2837ms
+[05-09-2024 13:01:02037 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 13:01:05642 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - null null
+[05-09-2024 13:01:05643 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Index"'
+[05-09-2024 13:01:05643 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Index\"}". Executing page "/Index"
+[05-09-2024 13:01:05643 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.IndexModel.OnGet" - ModelState is Valid
+[05-09-2024 13:01:05648 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 13:01:05650 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Index" in 6.7454ms
+[05-09-2024 13:01:05650 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Index"'
+[05-09-2024 13:01:05651 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - 200 null "text/html; charset=utf-8" 8.3342ms
+[05-09-2024 13:01:05676 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 13:01:05677 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 0.7022ms
+[05-09-2024 13:01:05677 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 13:01:09724 +03:00 Microsoft.Hosting.Lifetime ] Application is shutting down...
+[05-09-2024 13:01:19587 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"/Users/mixalismavromanolakis/.aspnet/DataProtection-Keys"' as key repository; keys will not be encrypted at rest.
+[05-09-2024 13:01:19642 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:1500"
+[05-09-2024 13:01:19643 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[05-09-2024 13:01:19643 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[05-09-2024 13:01:19643 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise"
+[05-09-2024 13:01:22835 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - null null
+[05-09-2024 13:01:22843 +03:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware ] Failed to determine the https port for redirect.
+[05-09-2024 13:01:22854 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Index"'
+[05-09-2024 13:01:22871 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Index\"}". Executing page "/Index"
+[05-09-2024 13:01:22908 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.IndexModel.OnGet" - ModelState is Valid
+[05-09-2024 13:01:23014 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 13:01:23099 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Index" in 226.5066ms
+[05-09-2024 13:01:23101 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Index"'
+[05-09-2024 13:01:23102 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - 200 null "text/html; charset=utf-8" 268.0127ms
+[05-09-2024 13:01:23122 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 13:01:23124 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 2.1441ms
+[05-09-2024 13:01:23125 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 13:02:51669 +03:00 Microsoft.Hosting.Lifetime ] Application is shutting down...
+[05-09-2024 13:02:58253 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"/Users/mixalismavromanolakis/.aspnet/DataProtection-Keys"' as key repository; keys will not be encrypted at rest.
+[05-09-2024 13:02:58307 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:1500"
+[05-09-2024 13:02:58308 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[05-09-2024 13:02:58308 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[05-09-2024 13:02:58308 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise"
+[05-09-2024 13:03:00690 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - null null
+[05-09-2024 13:03:00696 +03:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware ] Failed to determine the https port for redirect.
+[05-09-2024 13:03:00706 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Index"'
+[05-09-2024 13:03:00730 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Index\"}". Executing page "/Index"
+[05-09-2024 13:03:00773 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.IndexModel.OnGet" - ModelState is Valid
+[05-09-2024 13:03:00890 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 13:03:00972 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Index" in 240.7923ms
+[05-09-2024 13:03:00973 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Index"'
+[05-09-2024 13:03:00976 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - 200 null "text/html; charset=utf-8" 287.2947ms
+[05-09-2024 13:03:01007 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 13:03:01011 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 3.7569ms
+[05-09-2024 13:03:01012 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 14:36:41648 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - null null
+[05-09-2024 14:36:41652 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Index"'
+[05-09-2024 14:36:41653 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Index\"}". Executing page "/Index"
+[05-09-2024 14:36:41655 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.IndexModel.OnGet" - ModelState is Valid
+[05-09-2024 14:36:41712 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 14:36:41717 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Index" in 62.8947ms
+[05-09-2024 14:36:41717 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Index"'
+[05-09-2024 14:36:41717 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - 200 null "text/html; charset=utf-8" 69.5853ms
+[05-09-2024 14:36:41749 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 14:36:41752 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/js/boat.js""" - null null
+[05-09-2024 14:36:41772 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 22.3418ms
+[05-09-2024 14:36:41774 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 14:36:41776 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/js/boat.js" was not modified
+[05-09-2024 14:36:41777 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/js/boat.js""" - 304 null "text/javascript" 24.4861ms
+[05-09-2024 14:36:52562 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Students/Create""" - null null
+[05-09-2024 14:36:52563 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Students/Create""" - 404 0 null 1.1715ms
+[05-09-2024 14:36:52563 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Students/Create", Response status code: 404
+[05-09-2024 14:36:55487 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Students/1/Update""" - null null
+[05-09-2024 14:36:55488 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Students/1/Update""" - 404 0 null 0.5864ms
+[05-09-2024 14:36:55488 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Students/1/Update", Response status code: 404
+[05-09-2024 15:25:29697 +03:00 Microsoft.Hosting.Lifetime ] Application is shutting down...
+[05-09-2024 15:31:28464 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"/Users/mixalismavromanolakis/.aspnet/DataProtection-Keys"' as key repository; keys will not be encrypted at rest.
+[05-09-2024 15:31:28531 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:1500"
+[05-09-2024 15:31:28532 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[05-09-2024 15:31:28532 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[05-09-2024 15:31:28532 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise"
+[05-09-2024 15:31:34817 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - null null
+[05-09-2024 15:31:34826 +03:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware ] Failed to determine the https port for redirect.
+[05-09-2024 15:31:34837 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Boats/Index"'
+[05-09-2024 15:31:34856 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Boats/Index\"}". Executing page "/Boats/Index"
+[05-09-2024 15:31:34894 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.IndexModel.OnGet" - ModelState is Valid
+[05-09-2024 15:31:35058 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 15:31:35148 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Boats/Index" in 290.5596ms
+[05-09-2024 15:31:35149 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Boats/Index"'
+[05-09-2024 15:31:35150 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - 200 null "text/html; charset=utf-8" 333.9896ms
+[05-09-2024 15:31:35178 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/lib/bootstrap/dist/css/bootstrap.min.css""" - null null
+[05-09-2024 15:31:35178 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/js/site.js""?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo" - null null
+[05-09-2024 15:31:35178 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/css/site.css""?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0" - null null
+[05-09-2024 15:31:35178 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 15:31:35178 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/lib/bootstrap/dist/js/bootstrap.bundle.min.js""" - null null
+[05-09-2024 15:31:35179 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/lib/jquery/dist/jquery.min.js""" - null null
+[05-09-2024 15:31:35188 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 9.6772ms
+[05-09-2024 15:31:35188 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 15:31:35189 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/css/site.css" was not modified
+[05-09-2024 15:31:35189 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/lib/bootstrap/dist/css/bootstrap.min.css" was not modified
+[05-09-2024 15:31:35189 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/lib/jquery/dist/jquery.min.js" was not modified
+[05-09-2024 15:31:35189 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/lib/bootstrap/dist/js/bootstrap.bundle.min.js" was not modified
+[05-09-2024 15:31:35189 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/js/site.js" was not modified
+[05-09-2024 15:31:35190 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/js/site.js""?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo" - 304 null "text/javascript" 12.3048ms
+[05-09-2024 15:31:35190 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/lib/jquery/dist/jquery.min.js""" - 304 null "text/javascript" 11.585ms
+[05-09-2024 15:31:35190 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/lib/bootstrap/dist/css/bootstrap.min.css""" - 304 null "text/css" 12.2969ms
+[05-09-2024 15:31:35190 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/lib/bootstrap/dist/js/bootstrap.bundle.min.js""" - 304 null "text/javascript" 12.2636ms
+[05-09-2024 15:31:35193 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/css/site.css""?v=pAGv4ietcJNk_EwsQZ5BN9-K4MuNYS2a9wl4Jw-q9D0" - 304 null "text/css" 14.7575ms
+[05-09-2024 15:31:35924 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/favicon.ico""" - null null
+[05-09-2024 15:31:35925 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/favicon.ico" was not modified
+[05-09-2024 15:31:35925 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/favicon.ico""" - 304 null "image/x-icon" 1.0105ms
+[05-09-2024 15:31:36597 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - null null
+[05-09-2024 15:31:36599 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Boats/Index"'
+[05-09-2024 15:31:36599 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Boats/Index\"}". Executing page "/Boats/Index"
+[05-09-2024 15:31:36600 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.IndexModel.OnGet" - ModelState is Valid
+[05-09-2024 15:31:36607 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 15:31:36614 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Boats/Index" in 14.847ms
+[05-09-2024 15:31:36615 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Boats/Index"'
+[05-09-2024 15:31:36615 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - 200 null "text/html; charset=utf-8" 17.6547ms
+[05-09-2024 15:31:36644 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 15:31:36645 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 0.8578ms
+[05-09-2024 15:31:36646 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 15:31:38421 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - null null
+[05-09-2024 15:31:38422 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Boats/Index"'
+[05-09-2024 15:31:38422 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Boats/Index\"}". Executing page "/Boats/Index"
+[05-09-2024 15:31:38424 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.IndexModel.OnGet" - ModelState is Valid
+[05-09-2024 15:31:38428 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 15:31:38430 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Boats/Index" in 7.9759ms
+[05-09-2024 15:31:38430 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Boats/Index"'
+[05-09-2024 15:31:38431 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - 200 null "text/html; charset=utf-8" 9.5928ms
+[05-09-2024 15:31:38457 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 15:31:38457 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 0.6995ms
+[05-09-2024 15:31:38458 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 15:31:40826 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - null null
+[05-09-2024 15:31:40827 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Boats/Index"'
+[05-09-2024 15:31:40827 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Boats/Index\"}". Executing page "/Boats/Index"
+[05-09-2024 15:31:40827 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.IndexModel.OnGet" - ModelState is Valid
+[05-09-2024 15:31:40831 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 15:31:40833 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Boats/Index" in 5.292ms
+[05-09-2024 15:31:40833 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Boats/Index"'
+[05-09-2024 15:31:40833 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - 200 null "text/html; charset=utf-8" 6.5183ms
+[05-09-2024 15:31:40865 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 15:31:40866 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 0.9831ms
+[05-09-2024 15:31:40867 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 15:31:43011 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/Create""" - null null
+[05-09-2024 15:31:43012 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Boats/Create"'
+[05-09-2024 15:31:43025 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Boats/Create\"}". Executing page "/Boats/Create"
+[05-09-2024 15:31:43042 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.CreateModel.OnGet" - ModelState is Valid
+[05-09-2024 15:31:43043 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "".
+[05-09-2024 15:31:43046 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing an implicit handler method - ModelState is Valid
+[05-09-2024 15:31:43046 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 15:31:43059 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Boats/Create" in 33.5397ms
+[05-09-2024 15:31:43059 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Boats/Create"'
+[05-09-2024 15:31:43059 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/Create""" - 200 null "text/html; charset=utf-8" 48.0872ms
+[05-09-2024 15:31:43090 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 15:31:43091 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 0.7746ms
+[05-09-2024 15:31:43091 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 15:32:03142 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "POST" "http"://"localhost:1500""""/Boats/Create""" - "application/x-www-form-urlencoded" 222
+[05-09-2024 15:32:03143 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Boats/Create"'
+[05-09-2024 15:32:03143 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Boats/Create\"}". Executing page "/Boats/Create"
+[05-09-2024 15:32:03156 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.CreateModel.OnPost" - ModelState is Valid
+[05-09-2024 15:32:03214 +03:00 Chapter6C_Exercise.BoatServiceImpl ] Success in insert the boat
+[05-09-2024 15:32:03225 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnPost", returned result "".
+[05-09-2024 15:32:03225 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing an implicit handler method - ModelState is Valid
+[05-09-2024 15:32:03225 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 15:32:03226 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Boats/Create" in 83.1735ms
+[05-09-2024 15:32:03227 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Boats/Create"'
+[05-09-2024 15:32:03227 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "POST" "http"://"localhost:1500""""/Boats/Create""" - 302 null "text/html; charset=utf-8" 84.3787ms
+[05-09-2024 15:32:03229 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - null null
+[05-09-2024 15:32:03229 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Boats/Index"'
+[05-09-2024 15:32:03229 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Boats/Index\"}". Executing page "/Boats/Index"
+[05-09-2024 15:32:03230 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.IndexModel.OnGet" - ModelState is Valid
+[05-09-2024 15:32:03232 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 15:32:03233 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Boats/Index" in 3.5909ms
+[05-09-2024 15:32:03233 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Boats/Index"'
+[05-09-2024 15:32:03233 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - 200 null "text/html; charset=utf-8" 4.3249ms
+[05-09-2024 15:32:03259 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 15:32:03261 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 1.3933ms
+[05-09-2024 15:32:03261 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 15:32:11273 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Students/4/Update""" - null null
+[05-09-2024 15:32:11274 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Students/4/Update""" - 404 0 null 0.6364ms
+[05-09-2024 15:32:11274 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Students/4/Update", Response status code: 404
+[05-09-2024 15:32:18697 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/4/Delete""" - null null
+[05-09-2024 15:32:18698 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Boats/Delete"'
+[05-09-2024 15:32:18701 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Boats/Delete\"}". Executing page "/Boats/Delete"
+[05-09-2024 15:32:18703 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.DeleteModel.OnGet" - ModelState is Valid
+[05-09-2024 15:32:18727 +03:00 Chapter6C_Exercise.BoatServiceImpl ] Delete Success
+[05-09-2024 15:32:18732 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "".
+[05-09-2024 15:32:18733 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing an implicit handler method - ModelState is Valid
+[05-09-2024 15:32:18733 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 15:32:18736 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Boats/Delete" in 34.5359ms
+[05-09-2024 15:32:18736 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Boats/Delete"'
+[05-09-2024 15:32:18737 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/4/Delete""" - 302 null "text/html; charset=utf-8" 39.3744ms
+[05-09-2024 15:32:18739 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - null null
+[05-09-2024 15:32:18740 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Boats/Index"'
+[05-09-2024 15:32:18740 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Boats/Index\"}". Executing page "/Boats/Index"
+[05-09-2024 15:32:18741 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.IndexModel.OnGet" - ModelState is Valid
+[05-09-2024 15:32:18743 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 15:32:18744 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Boats/Index" in 3.718ms
+[05-09-2024 15:32:18744 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Boats/Index"'
+[05-09-2024 15:32:18745 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - 200 null "text/html; charset=utf-8" 5.7067ms
+[05-09-2024 15:32:18768 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 15:32:18770 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 2.0147ms
+[05-09-2024 15:32:18770 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 15:32:20268 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/Create""" - null null
+[05-09-2024 15:32:20269 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Boats/Create"'
+[05-09-2024 15:32:20269 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Boats/Create\"}". Executing page "/Boats/Create"
+[05-09-2024 15:32:20271 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.CreateModel.OnGet" - ModelState is Valid
+[05-09-2024 15:32:20271 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "".
+[05-09-2024 15:32:20271 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing an implicit handler method - ModelState is Valid
+[05-09-2024 15:32:20271 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 15:32:20273 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Boats/Create" in 3.6244ms
+[05-09-2024 15:32:20273 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Boats/Create"'
+[05-09-2024 15:32:20274 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/Create""" - 200 null "text/html; charset=utf-8" 5.2202ms
+[05-09-2024 15:32:20297 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 15:32:20300 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 3.5867ms
+[05-09-2024 15:32:20301 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 15:32:26345 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "POST" "http"://"localhost:1500""""/Boats/Create""" - "application/x-www-form-urlencoded" 222
+[05-09-2024 15:32:26346 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Boats/Create"'
+[05-09-2024 15:32:26346 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Boats/Create\"}". Executing page "/Boats/Create"
+[05-09-2024 15:32:26348 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.CreateModel.OnPost" - ModelState is Valid
+[05-09-2024 15:32:26357 +03:00 Chapter6C_Exercise.BoatServiceImpl ] Success in insert the boat
+[05-09-2024 15:32:26361 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnPost", returned result "".
+[05-09-2024 15:32:26361 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing an implicit handler method - ModelState is Valid
+[05-09-2024 15:32:26361 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 15:32:26362 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Boats/Create" in 16.1759ms
+[05-09-2024 15:32:26363 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Boats/Create"'
+[05-09-2024 15:32:26363 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "POST" "http"://"localhost:1500""""/Boats/Create""" - 302 null "text/html; charset=utf-8" 17.6365ms
+[05-09-2024 15:32:26365 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - null null
+[05-09-2024 15:32:26365 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Boats/Index"'
+[05-09-2024 15:32:26366 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Boats/Index\"}". Executing page "/Boats/Index"
+[05-09-2024 15:32:26366 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.IndexModel.OnGet" - ModelState is Valid
+[05-09-2024 15:32:26369 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 15:32:26370 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Boats/Index" in 4.06ms
+[05-09-2024 15:32:26370 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Boats/Index"'
+[05-09-2024 15:32:26371 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - 200 null "text/html; charset=utf-8" 5.175ms
+[05-09-2024 15:32:26401 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 15:32:26401 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 0.7216ms
+[05-09-2024 15:32:26402 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 15:43:01723 +03:00 Microsoft.Hosting.Lifetime ] Application is shutting down...
+[05-09-2024 15:53:05438 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"/Users/mixalismavromanolakis/.aspnet/DataProtection-Keys"' as key repository; keys will not be encrypted at rest.
+[05-09-2024 15:53:05496 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:1500"
+[05-09-2024 15:53:05497 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[05-09-2024 15:53:05497 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[05-09-2024 15:53:05497 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise"
+[05-09-2024 15:53:10714 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - null null
+[05-09-2024 15:53:10721 +03:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware ] Failed to determine the https port for redirect.
+[05-09-2024 15:53:10732 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Boats/Index"'
+[05-09-2024 15:53:10749 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Boats/Index\"}". Executing page "/Boats/Index"
+[05-09-2024 15:53:10787 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.IndexModel.OnGet" - ModelState is Valid
+[05-09-2024 15:53:10930 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 15:53:11015 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Boats/Index" in 264.587ms
+[05-09-2024 15:53:11016 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Boats/Index"'
+[05-09-2024 15:53:11017 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - 200 null "text/html; charset=utf-8" 305.6288ms
+[05-09-2024 15:53:11044 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 15:53:11046 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 1.5946ms
+[05-09-2024 15:53:11046 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 15:53:11053 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/js/boat.js""" - null null
+[05-09-2024 15:53:11058 +03:00 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware ] The file "/js/boat.js" was not modified
+[05-09-2024 15:53:11058 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/js/boat.js""" - 304 null "text/javascript" 5.3509ms
+[05-09-2024 15:53:14203 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Students/1/Update""" - null null
+[05-09-2024 15:53:14204 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Students/1/Update""" - 404 0 null 0.8385ms
+[05-09-2024 15:53:14204 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Students/1/Update", Response status code: 404
+[05-09-2024 15:53:26843 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Students/1/Update""" - null null
+[05-09-2024 15:53:26844 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Students/1/Update""" - 404 0 null 1.3306ms
+[05-09-2024 15:53:26844 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Students/1/Update", Response status code: 404
+[05-09-2024 15:53:28910 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Students/2/Update""" - null null
+[05-09-2024 15:53:28910 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Students/2/Update""" - 404 0 null 0.6355ms
+[05-09-2024 15:53:28911 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Students/2/Update", Response status code: 404
+[05-09-2024 16:06:54478 +03:00 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager ] User profile is available. Using '"/Users/mixalismavromanolakis/.aspnet/DataProtection-Keys"' as key repository; keys will not be encrypted at rest.
+[05-09-2024 16:06:54549 +03:00 Microsoft.Hosting.Lifetime ] Now listening on: "http://localhost:1500"
+[05-09-2024 16:06:54550 +03:00 Microsoft.Hosting.Lifetime ] Application started. Press Ctrl+C to shut down.
+[05-09-2024 16:06:54550 +03:00 Microsoft.Hosting.Lifetime ] Hosting environment: "Development"
+[05-09-2024 16:06:54550 +03:00 Microsoft.Hosting.Lifetime ] Content root path: "/Users/mixalismavromanolakis/ConsoleApp1/Chapter6C#Exercise"
+[05-09-2024 16:06:57306 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - null null
+[05-09-2024 16:06:57312 +03:00 Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware ] Failed to determine the https port for redirect.
+[05-09-2024 16:06:57326 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executing endpoint '"/Boats/Index"'
+[05-09-2024 16:06:57346 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Route matched with "{page = \"/Boats/Index\"}". Executing page "/Boats/Index"
+[05-09-2024 16:06:57388 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executing handler method "Chapter6C_Exercise.Pages.Boats.IndexModel.OnGet" - ModelState is Valid
+[05-09-2024 16:06:57518 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed handler method "OnGet", returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".
+[05-09-2024 16:06:57606 +03:00 Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker ] Executed page "/Boats/Index" in 258.0332ms
+[05-09-2024 16:06:57607 +03:00 Microsoft.AspNetCore.Routing.EndpointMiddleware ] Executed endpoint '"/Boats/Index"'
+[05-09-2024 16:06:57610 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Boats/getall""" - 200 null "text/html; charset=utf-8" 304.4021ms
+[05-09-2024 16:06:57647 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - null null
+[05-09-2024 16:06:57651 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css""" - 404 0 null 4.4206ms
+[05-09-2024 16:06:57653 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Chapter6C_Exercise.styles.css", Response status code: 404
+[05-09-2024 16:06:58915 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request starting "HTTP/1.1" "GET" "http"://"localhost:1500""""/Students/5/Update""" - null null
+[05-09-2024 16:06:58917 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request finished "HTTP/1.1" "GET" "http"://"localhost:1500""""/Students/5/Update""" - 404 0 null 2.0848ms
+[05-09-2024 16:06:58918 +03:00 Microsoft.AspNetCore.Hosting.Diagnostics ] Request reached the end of the middleware pipeline without being handled by application code. Request path: "GET" "http"://"localhost:1500""""/Students/5/Update", Response status code: 404

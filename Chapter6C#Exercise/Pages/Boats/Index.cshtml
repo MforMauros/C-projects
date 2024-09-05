@@ -1,0 +1,45 @@
+﻿@page "/Boats/getall"
+@model Chapter6C_Exercise.Pages.Boats.IndexModel
+@{
+    ViewData["Title"] = "Boats";
+}
+
+<h2 class="text-center mb-4">Boats</h2>
+<a class="btn btn-primary btn-lg mb-4" href="/Boats/Create">New Boat</a>
+
+<table class="mx-auto table table-dark text-center">
+    <thead>
+        <tr><th colspan="6">Boats for sale</th></tr>
+        <tr>
+            <th>Code</th>
+            <th>Boat Name</th>
+            <th>Price</th>
+            <th>Region</th>
+            <th>Edit or Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Boats!.Count != 0) {
+            @foreach (var boat in Model.Boats) {
+                <tr>
+                    <td>@boat.Id</td>
+                    <td>@boat.Boatname</td>
+                    <td>@boat.Price</td>
+                    <td>@boat.Region</td>
+                    <td>
+                        <a class="btn btn-primary" href="/Students/@boat.Id/Update">Edit</a>
+                        <a class="btn btn-danger" href="javascript:void(0)" onclick="confirmDelete(@boat.Id)">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+<div>
+    @if (Model.ErrorObj is not null) {
+        <p>@Model.ErrorObj.Message</p>
+    }
+</div>
+
+<script src="~/js/boat.js"></script> 
